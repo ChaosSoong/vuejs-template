@@ -1,11 +1,11 @@
 <template>
   <div class="home">
-    初始化成功
+    <HelloWorld />
   </div>
 </template>
 
 <script>
-
+import HelloWorld from '../components/HelloWorld'
 export default {
   name: 'Home',
   components: {
