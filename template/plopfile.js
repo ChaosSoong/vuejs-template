@@ -14,7 +14,7 @@ module.exports = plop => {
       {
         type: "add", // 操作类型，这里是添加文件
         path: "./src/views/{{fileName}}.vue", // 添加的文件的路径
-        templateFile: "plop-temp/temp.vue" // 模板文件的路径
+        templateFile: "./plop-temp/temp.vue" // 模板文件的路径
       }
     ]
   });

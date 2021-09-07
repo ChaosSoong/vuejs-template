@@ -1,6 +1,9 @@
 <template>
-  <div></div>
+  <div>
+
+  </div>
 </template>
+
 <script>
 export default {
   name: "{{fileName}}",
@@ -9,6 +12,7 @@ export default {
   },
   components: {},
   computed: {},
+  watch: {},
   filters: {},
   created() {},
   mounted() {},
@@ -16,4 +20,7 @@ export default {
   methods: {}
 };
 </script>
-<style></style>
+
+<style>
+
+</style>

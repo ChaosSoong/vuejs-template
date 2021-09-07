@@ -36,6 +36,7 @@
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-plugin-vuex": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
+    "plop": "^2.7.4",
     {{#if_eq cssPreprocessor "sass"}}
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
